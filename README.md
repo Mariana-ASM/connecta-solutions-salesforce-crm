@@ -401,7 +401,7 @@ A documentação completa do projeto está disponível na pasta `docs`.
 
 # Autor
 
-**Mariana Monteiro**
+**Mariana Camila, Mariana Monteiro, Paulo Félix, Thiago Félix e Ycaro Agrielle**
 
 Projeto desenvolvido para fins educacionais e demonstração de competências em Salesforce CRM, Análise Funcional, Business Analysis e Solution Design.
 
